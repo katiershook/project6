@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: rgb(27, 113, 153);
 }
 
 a{
@@ -58,14 +58,14 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background:#CD5C5C;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: 	#FFFACD
   }
 
   .portfolio-me a{
@@ -103,7 +103,7 @@ a:hover{
 }
 
 .portfolio-intro p{
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 1px solid	#FFFACD;
   padding-bottom: 40px;
 }
 
@@ -117,7 +117,7 @@ a:hover{
   }
 
   .portfolio-index a{
-    color: #222;
+    color: #FFFACD
   }
 
   .portfolio-index .cell{
@@ -142,7 +142,7 @@ a:hover{
 
 .portfolio-project li{
   font-size: 13px;
-  color: #444;
+  color: rgb(65, 58, 131);
 }
 
 .portfolio-bio{
