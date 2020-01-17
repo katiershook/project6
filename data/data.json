@@ -36,7 +36,7 @@
             "project_name":"Phrase Hunter",
             "description":" Guess some common and some not so common phrases ",
             "technologies":["Visual Studio Code","Github" , "JavaScript" , "HTML"],
-            "live_link":"https://github.com/katiershook/unit4real",
+            "live_link":"https://katiershook.github.io/unit4real/",
             "github_link":"https://github.com/katiershook/unit4real",
             "image_urls": ["/static/images/project4.3.png","/static/images/project4.1.png","/static/images/project4.2.png","/static/images/project4.3.png"]
 
