@@ -1,0 +1,1 @@
+# project6 this a showcase of my treehouse techdegree projects. I have edited the  css by changing the index bar color, font color in the index and font color of my skills section. All of the links open new window. Thanks for looking!
